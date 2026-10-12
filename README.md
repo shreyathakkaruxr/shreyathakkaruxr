@@ -3,7 +3,7 @@
 **Senior UX Researcher & Design Strategist, recently at Electrolux Group.** I built the North America UX research practice.
 
 - 💰 $60M+ in strategic investment informed by my research
-- 🤖 Responsible AI framework used by four business units
+- 🤖 Responsible AI framework used by 4 business units
 - ⏱️ ~40% less analysis time with AI-assisted synthesis
 
 **Projects**
