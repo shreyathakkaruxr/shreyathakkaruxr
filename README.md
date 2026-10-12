@@ -10,7 +10,7 @@
 - [Research impact tracking](https://shreyathakkaruxr.github.io/projects/research-impact.html): a process for recording what teams do with research findings after a study ends
 
 **Talks and papers**
-- *The Design Researcher's Room* - the LLM between your temples, IDSA IDC 2026
+- *The Design Researcher's Room - the LLM between your temples*, IDSA IDC 2026
 - *Negotiating Culture and Constraint in Generative AI for Design*, IDSA IDC 2026, with Nidhi Singh Rathore
 - Culturally responsive AI and jugaad innovation, [IASDR 2025](https://doi.org/10.21606/iasdr.2025.537)
 - Ethical AI integration in research, World Usability Congress 2025 and UXDX 2025
