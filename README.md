@@ -1,4 +1,4 @@
-### Hi, I'm Shreya 👋
+### Hi, I'm Shreya 
 
 **Senior UX Researcher & Design Strategist, recently at Electrolux Group.** I built the North America UX research practice.
 
