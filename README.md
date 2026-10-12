@@ -1,6 +1,6 @@
 ### Hi, I'm Shreya 👋
 
-**Senior UX Researcher & Design Strategist, Electrolux Group.** I lead UX research for connected home appliances for Frigidaire, AEG, and Electrolux. I built the North America UX research practice.
+**Senior UX Researcher & Design Strategist, recently at Electrolux Group.** I built the North America UX research practice.
 
 - 💰 $60M+ in strategic investment informed by my research
 - 🤖 Responsible AI framework used by four business units
