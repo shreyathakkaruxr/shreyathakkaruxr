@@ -7,7 +7,9 @@
 - ⏱️ ~40% less analysis time with AI-assisted synthesis
 
 **Projects**
-- [Research impact tracking](https://shreyathakkaruxr.github.io/projects/research-impact.html): a process for recording what teams do with research findings after a study ends
+- [Research Impact Mapping](https://shreyathakkaruxr.github.io/projects/research-impact.html): a process for recording what teams do with research findings after the study
+- [AI x Productive Friction](https://shreyathakkaruxr.github.io/projects/productive-friction.html): a futures study of how people might learn with AI in 2045, beyond the chatbot
+- [AI x Trust](https://shreyathakkaruxr.github.io/projects/trust-lenses.html): six lenses on how trust in AI is formed, shaped, and sustained
 
 **Talks and papers**
 - *The Design Researcher's Room - the LLM between your temples*, IDSA IDC 2026
